@@ -254,10 +254,19 @@ section {
     }
 
 }
+@media(max-width:767px){
+    .main {
+    background-position: center center;
+   
+
+  
+}
+}
 
 @media (max-width:641px){
     body{
         font-size: 12px;
+        
     }
 
     .main-content h2{
