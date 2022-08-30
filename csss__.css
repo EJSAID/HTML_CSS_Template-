@@ -20,6 +20,11 @@ header {
     align-items: center;
     padding: 10px 200px ;
 }
+ .want img{
+    float: left;
+   width: 50px
+
+}
 
 .logo{
     text-decoration: none;
