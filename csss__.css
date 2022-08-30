@@ -60,7 +60,7 @@ section {
     height: 100vh;
     display: flex;
     align-items: center;
-    bbackground: url("ayour.jpeg") no-repeat;
+    bbackground: url(ayour.jpeg) no-repeat;
     background-size: cover;
     background-position:right center;
     background-attachment: fixed;
